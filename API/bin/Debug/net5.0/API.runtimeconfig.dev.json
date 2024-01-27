@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\medno\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\medno\\.nuget\\packages"
+    ]
+  }
+}
